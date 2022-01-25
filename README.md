@@ -9,7 +9,7 @@ All credit to this goes to the original creator @powerlanguish. Please go to the
 
 ## Why?
 
-I was very bored at work and wanted to play a new wordle but it only refreshes once a day.
+I was very bored at work and wanted to play a new wordle but the official one only refreshes once a day. I need MORE!
 
 Also, it looked like a fun little coding project!
 
